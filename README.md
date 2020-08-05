@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repository contains the capstone data science project of the Coursera course
+This capstone project has been submitted as part of the requirements for completion of the IBM Data Science Professional Certificate on Coursera. In general, this project encompasses a series of Data Science techniques, including, but not limited to, Web Scraping (using BeautifulSoup and Requests), Data Cleaning, Data Wrangling and Machine Learning (K-Means clustering algorithm).
